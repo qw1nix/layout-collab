@@ -1,178 +1,75 @@
-.logo {
-    position: absolute;
-left: 73px;
-right: 1273px;
-top: 40.5px;
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 39px;
+}
 
-text-align:left ;
+.navigation {
+    display: flex;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
 }
 
 .features {
-    position: absolute;
-height: 18px;
-left: 422px;
-right: 945px;
-top: 39px;
-
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 18px;
-/* identical to box height, or 106% */
-
-letter-spacing: 0.18px;
-
-text-align: center;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
 }
 
 .about {
-    position: absolute;
-left: 525px;
-right: 863px;
-top: 39px;
-
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 18px;
-/* identical to box height, or 106% */
-
-letter-spacing: 0.18px;
-
-text-align: center;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
 }
 
 .pricing {
-    position: absolute;
-left: 607px;
-right: 775px;
-top: 39px;
-
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 18px;
-/* identical to box height, or 106% */
-
-letter-spacing: 0.18px;
-
-text-align: center;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
 }
 
 .blog {
-    position: absolute;
-left: 694px;
-right: 707px;
-top: 39px;
-    
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 18px;
-/* identical to box height, or 106% */
-    
-letter-spacing: 0.18px;
-    
-text-align: center;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
 }
 
 .contact {
-    position: absolute;
-left: 764px;
-right: 606px;
-top: 39px;
-    
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 18px;
-/* identical to box height, or 106% */
-    
-letter-spacing: 0.18px;
-    
-text-align: center;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
 }
 
 .basket {
-    position: absolute;
-left: 1038px;
-right: 385px;
-top: 41px;
-
-text-align: right;
+    margin-right: 8px;
 }
 
 .cart {
-    position: absolute;
-left: 1063px;
-right: 340px;
-top: 38px;
-
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 18px;
-/* identical to box height, or 106% */
-
-text-align: right;
+    font-size: 17px;
+    line-height: 18px;
+    margin-right: 14px;
 }
 
 .zero {
-    position: absolute;
-width: 8px;
-height: 18px;
-left: 1592px;
-top: 40px;
-right: 3px;
-    
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400px;
-font-size: 11px;
-line-height: 18px;
-/* identical to box height, or 164% */
-    
-text-align: right;
-}
-
-.square {
-box-sizing: border-box;
-
-position: absolute;
-width: 219px;
-height: 61px;
-left: 1617px;
-right: 72px;
-top: 20px;
-
-border: 1px solid rgba(8, 8, 41, 0.2);
-border-radius: 14px;
-
-text-align: right;
+    font-size: 11px;
+    line-height: 18px;
+    margin-right: 27px;
 }
 
 .beta {
-    position: absolute;
-width: 145px;
-height: 20px;
-left: 1654px;
-top: 37px;
-right: 109px;
-
-font-family: 'Plus Jakarta Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 20px;
-/* identical to box height, or 111% */
-
-text-align: right;
-letter-spacing: 0.4px;
-
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+    box-sizing: border-box;
+    border: 1px solid rgba(8, 8, 41, 0.2);
+    border-radius: 14px;
+    padding: 17px 37px 24px;
 }
