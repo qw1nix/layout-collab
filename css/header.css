@@ -1,0 +1,75 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 39px;
+}
+
+.navigation {
+    display: flex;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+}
+
+.features {
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
+}
+
+.about {
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
+}
+
+.pricing {
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
+}
+
+.blog {
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+    margin-right: 30px;
+}
+
+.contact {
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.18px;
+}
+
+.basket {
+    margin-right: 8px;
+}
+
+.cart {
+    font-size: 17px;
+    line-height: 18px;
+    margin-right: 14px;
+}
+
+.zero {
+    font-size: 11px;
+    line-height: 18px;
+    margin-right: 27px;
+}
+
+.beta {
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+    box-sizing: border-box;
+    border: 1px solid rgba(8, 8, 41, 0.2);
+    border-radius: 14px;
+    padding: 17px 37px 24px;
+}
