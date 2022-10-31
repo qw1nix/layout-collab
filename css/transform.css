@@ -1,10 +1,8 @@
-
 .wrapper-transform {
     display: flex;
     align-items: center;
     justify-content: space-around;
     margin: 160px 120px 0;
-
 }
 
 .transform {
@@ -52,6 +50,7 @@
 .free-img {
     background: url(.png);
     border-radius: 0px;
+    margin-top: 23px;
 }
 
 .button-section {
