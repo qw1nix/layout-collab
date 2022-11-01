@@ -1,0 +1,59 @@
+.wrapper-transform {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 160px 120px 0;
+}
+
+.transform {
+    margin-right: 130px; 
+    width: 520px;
+}
+
+.design-tool {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    line-height: 79px;
+    letter-spacing: 2.16px;
+}
+
+.help {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0.36px;
+    margin-top: 31px;
+}
+
+.start-trial {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    background: #3F53D8;
+    border-radius: 14px;
+    padding: 16px 36px 23px 36px;
+    margin-top: 43px;
+    width: 240px;
+    height: 59px;
+    margin-right: 34px;
+}
+
+.start-trial button {
+    color: #fff;
+    font-size: 18px;
+}
+
+.free-img {
+    background: url(.png);
+    border-radius: 0px;
+    margin-top: 23px;
+}
+
+.button-section {
+    display: flex;
+}
+
