@@ -1,0 +1,22 @@
+.teams-using {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 138px;
+}
+
+.using-collab {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 31px;
+    text-align: center;
+    letter-spacing: 0.48px;
+}
+
+.logoipsum {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 54px;
+    align-items: center;
+}
