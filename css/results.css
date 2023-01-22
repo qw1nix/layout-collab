@@ -1,0 +1,34 @@
+.feature {
+    font-size: 43px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: 1.44px;
+}
+
+.results-img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.transform-teams {
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.36px;
+}
+
+.results-img-item {
+    text-align: center;
+    margin: 0 50px;
+    padding: 21px;
+    max-width: 245px;
+    width: 80px;
+    height: 80px;
+}
+
+.results-img-content {
+    display: flex;
+    align-items: center;
+}
