@@ -1,0 +1,54 @@
+.collaborate {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+.collaborate-text {
+    max-width: 432px;
+    margin-left: 138px;
+}
+
+.collaborate-title {
+    font-size: 42px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #080829;
+    margin-bottom: 28px;
+}
+
+.collaborate-works {
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0.36px;
+    color: #545479;
+    margin-bottom: 35px;
+}
+
+.collaborate-features {
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    line-height: 29px;
+    letter-spacing: 0.36px;
+    color: #080829;
+    padding-left: 25px;
+}
+
+.collaborate-features span {
+    margin-bottom: 15px;
+}
+
+.collaborate-button button {
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: white;
+    height: 59px;
+    background: #3F53D8;
+    border-radius: 14px;
+    padding: 0 36px;
+    margin-top: 33px;
+}
