@@ -1,0 +1,59 @@
+.creative-collab {
+    margin-top: 120px;
+}
+
+.creative {
+    display: flex;
+}
+
+.build-creative {
+    font-size: 43px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #080829;
+}
+
+.track-changes {
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0.36px;
+    color: #545479;
+    margin-top: 25px;
+}
+
+.collab-helps {
+    display: flex;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0.36px;
+    color: #080829;
+    margin-top: 45px;
+}
+
+.collab-helps p {
+    margin-left: 24px;
+}
+
+.user {
+    margin-top: 15px;
+}
+
+.add-creative {
+    margin-top: 50px;
+}
+
+.add-creative button {
+    height: 59px;
+    background: #3F53D8;
+    border-radius: 14px;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #FFFFFF;
+    padding: 16px 36px;
+}
+
+.add-creative img {
+    margin: 63px 0 0 134px;
+}
