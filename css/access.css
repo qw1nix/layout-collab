@@ -1,0 +1,56 @@
+.access {
+    display: flex;
+}
+
+.access-content {
+    margin-left: 132px;
+}
+
+.access-title {
+    font-size: 43px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #080829;
+    width: 355px;
+    margin-top: 40px;
+}
+
+.access-text {
+    font-size: 17px;
+    line-height: 29px;
+    letter-spacing: 0.36px;
+    color: #545479;
+    width: 425px;
+    margin-top: 27px;
+}
+
+.access-text hr {
+    margin-top: 33.5px;
+    border: 1px solid rgba(8, 8, 41, 0.3);;
+}
+
+.access-logos {
+    width: 423px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.access-logos img {
+    width: 126px;
+    height: 71px;
+    flex: 0 0 25%;
+}
+
+.access-logos img:first-child {
+    margin-left: 5px;
+    width: 105px;
+    height: 10px;
+}
+
+.access-point {
+    margin: 115px 0 0 405px;
+}
+
