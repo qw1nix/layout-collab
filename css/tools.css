@@ -1,0 +1,66 @@
+.favourite-tools h3 {
+    font-size: 47px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: 1.44px;
+    color: #080829;
+    margin: 175px 430px 0;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 619px;
+}
+
+.tool-icons {
+    justify-content: space-around;
+    align-items: center;
+}
+
+.favourite-tools img {
+   display: flex;
+   margin: 0 1420px 0;
+}
+
+.discord-image {
+    margin: 113px 170px 0 211px;
+}
+
+.podcasts-image {
+    margin: 146px 162px 0 0;
+}
+
+.w-image {
+    margin: 124px 170px 0 0;
+}
+
+.disk-image {
+    margin: 128px 186px 0 0;
+}
+
+.mail-image {
+    margin: 115px 60px 0 0;
+}
+
+.google-image1 {
+    margin: 114px 146px 0 159px;
+}
+
+.box-image1 {
+    margin: 140px 165px 0 0;
+}
+
+.collab-image {
+    margin: 120px 165px 0 0;
+}
+
+.google-image {
+    margin: 114px 150px 0 0;
+}
+
+.youtube-image {
+    margin: 130px 150px 0 0;
+}
+
+.box-image {
+    margin: 120px 155px 0 0;
+}
