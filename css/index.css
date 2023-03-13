@@ -30,7 +30,7 @@ section {
 }
 html,
 body {
-    max-width: 1450px;
+    /* max-width: 1450px; */
 	height: 100%;
     margin: 0 auto;
 }
@@ -72,4 +72,9 @@ h5,
 h6 {
 	font-weight: inherit;
 	font-size: inherit;
+}
+
+.wrapper {
+    max-width: 1450px;
+    margin: 0 auto;
 }
