@@ -1,0 +1,90 @@
+.articles-title {
+    font-size: 43px;
+    line-height: 56px;
+    letter-spacing: 1.44px;
+    color: #080829;
+    text-align: center;
+    margin-top: 222px;
+}
+
+.articles-content {
+    display: flex;
+    margin-top: 86px;
+    justify-content: space-around;
+}
+
+.articles-content hr {
+    background: rgba(8, 8, 41, 0.3);
+    width: 360px;
+    height: 0.5px;
+    margin: 20px 0 22px 0;
+}
+
+.articles-branding {
+    font-size: 24px;
+    line-height: 39px;
+    letter-spacing: 0.52px;
+    color: #080829;
+    width: 315px;
+}
+
+.articles-branding p {
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.36px;
+    color: #080829;
+}
+
+.articles-branding button {
+    background: rgba(162, 89, 255, 0.3);
+    border-radius: 10px;
+    width: 113px;
+    height: 34px;
+    margin: 31px 0 27px 0;
+}
+
+.articles-business {
+    font-size: 24px;
+    line-height: 39px;
+    letter-spacing: 0.52px;
+    color: #080829;
+    width: 304px;
+}
+
+.articles-business p {
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.36px;
+    color: #080829;
+}
+
+.articles-business button {
+    background: #D9DEFF;
+    border-radius: 10px;
+    width: 111px;
+    height: 34px;
+    margin: 31px 0 27px 0;
+}
+
+.articles-startup {
+    font-size: 24px;
+    line-height: 39px;
+    letter-spacing: 0.52px;
+    color: #080829;
+    width: 344px;
+}
+
+.articles-startup p {
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.36px;
+    color: #080829;
+}
+
+.articles-startup button {
+    background: rgba(250, 91, 104, 0.3);
+    border-radius: 10px;
+    width: 101px;
+    height: 34px;
+    margin: 31px 0 27px 0;
+}
