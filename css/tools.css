@@ -14,53 +14,23 @@
 .tool-icons {
     justify-content: space-around;
     align-items: center;
+    margin-top: 147px;
 }
 
 .favourite-tools img {
-   display: flex;
-   margin: 0 1420px 0;
+    display: flex;
+    margin: 0 1420px 0;
 }
 
-.discord-image {
-    margin: 113px 170px 0 211px;
+.tool-icons-up {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
-.podcasts-image {
-    margin: 146px 162px 0 0;
-}
-
-.w-image {
-    margin: 124px 170px 0 0;
-}
-
-.disk-image {
-    margin: 128px 186px 0 0;
-}
-
-.mail-image {
-    margin: 115px 60px 0 0;
-}
-
-.google-image1 {
-    margin: 114px 146px 0 159px;
-}
-
-.box-image1 {
-    margin: 140px 165px 0 0;
-}
-
-.collab-image {
-    margin: 120px 165px 0 0;
-}
-
-.google-image {
-    margin: 114px 150px 0 0;
-}
-
-.youtube-image {
-    margin: 130px 150px 0 0;
-}
-
-.box-image {
-    margin: 120px 155px 0 0;
+.tool-icons-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 120px;
 }
